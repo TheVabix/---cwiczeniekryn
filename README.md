@@ -1,2 +1,2 @@
-# -ćwiczeniekryn
+# -cwiczeniekryn
 Biskupski_2G_1_z1_1_do_12_09_g20
